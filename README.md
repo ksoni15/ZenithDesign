@@ -22,11 +22,9 @@
 
 
 ### :dart: Features
-- Generate AI Image
-- Share AI Image
-- Download shared AI Image
-- Search shared AI Image
-
+- Generate AI Design
+- Share AI Design
+- Download shared AI Design
 
 ## :toolbox: Getting Started
 
